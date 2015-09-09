@@ -1,3 +1,3 @@
 # TCP Router
 =================
-A Code Fellows assignment to make simple TCP router
+A Code Fellows assignment to make a simple TCP router

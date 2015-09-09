@@ -1,0 +1,22 @@
+{
+  "name": "tcp-router",
+  "version": "0.1.0",
+  "description": "a simple TCP router",
+  "main": "tcp_router_example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyuGuardian/tcp-router-aak.git"
+  },
+  "author": "aak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RyuGuardian/tcp-router-aak/issues"
+  },
+  "homepage": "https://github.com/RyuGuardian/tcp-router-aak#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
+}
